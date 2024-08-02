@@ -1,0 +1,12 @@
+{
+  "listItems": [
+    { "name": "Quote", "url": "quote/calculate_quote", "icon": "home" },
+    { "name": "Calculate Quote ", "url": "quote/test_quote", "icon": "home" },
+    { "name": "policies", "url": "quote/policies", "icon": "check-square" },
+    { "name": "Add User", "url": "UserManagment/register", "icon": "message-square" },
+    { "name": "Insurance Companies", "url": "dashboard/insurance-company", "icon": "check-square" },
+    { "name": "Company Policies", "url": "dashboard/company-policies", "icon": "calendar" },
+    { "name": "Policy Managment", "url": "PolicyManagement/PolicyManagement", "icon": "list" }
+   
+  ]
+}
